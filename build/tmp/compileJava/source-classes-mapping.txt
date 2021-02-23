@@ -1,0 +1,20 @@
+exception/InvalidPathException.java
+ exception.InvalidPathException
+operation/Creatable.java
+ operation.Creatable
+core/FileReader.java
+ core.FileReader
+operation/Reader.java
+ operation.Reader
+enums/FolderType.java
+ enums.FolderType
+core/Folder.java
+ core.Folder
+core/Song.java
+ core.Song
+dto/SongDTO.java
+ dto.SongDTO
+core/FileMapper.java
+ core.FileMapper
+MusicApplication.java
+ MusicApplication
